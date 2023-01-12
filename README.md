@@ -1,2 +1,2 @@
-# Text-Summary-AI
+# OSSP
 Open source software project for winter semester
